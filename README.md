@@ -1,2 +1,2 @@
 # kviz-C
-Kviz mini projekat napravljen za kraj prve godine IT gimnazije. 
+Kviz mini projekat napravljen u C-u za kraj prve godine IT gimnazije.
